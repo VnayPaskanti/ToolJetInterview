@@ -1,0 +1,20 @@
+{
+    "setup":{
+
+    },
+    "TS1":{
+        "homePage":{
+            "toolJetName": "vinay-tooljet20"
+        }
+    },
+    "TS2":{
+        "homePage":{
+            "toolJetName": "vinay-tooljet31"
+        }
+    },
+    "TS3":{
+        "homePage":{
+            "toolJetName": "vinay-tooljet40"
+        }
+    }
+}
