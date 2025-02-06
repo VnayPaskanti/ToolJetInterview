@@ -4,17 +4,17 @@
     },
     "TS1":{
         "homePage":{
-            "toolJetName": "vinay-tooljet20"
+            "toolJetName": "vinay-tooljet50"
         }
     },
     "TS2":{
         "homePage":{
-            "toolJetName": "vinay-tooljet31"
+            "toolJetName": "vinay-tooljet75"
         }
     },
     "TS3":{
         "homePage":{
-            "toolJetName": "vinay-tooljet40"
+            "toolJetName": "vinay-tooljet100"
         }
     }
 }
